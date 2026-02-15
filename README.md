@@ -1,102 +1,85 @@
-<!-- ================= HEADER ================= -->
+# Jishan Ahammod Faisal
 
-<h1 align="center">Jishan Ahammod Faisal</h1>
-<h3 align="center">Full Stack Developer | MERN | SQL | Java | C | WordPress | Creative IT Manager</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;SQL+%7C+Java+%7C+C+Programmer;WordPress+Developer;Creative+Designer;IT+Event+Manager;Building+Scalable+Digital+Solutions" />
-</p>
+### Full Stack Developer | MERN | SQL | Java | C | WordPress | Creative IT Manager
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile
 
-- Full Stack Developer (MongoDB, Express, React, Node)
-- Strong in SQL & Database Management
-- Programming: C & Java
-- WordPress Development
-- Adobe Photoshop & Illustrator
-- Video Editing & MS Office Expert
-- IT Section Manager for Multiple Programs
-- Social Organization Leadership Experience
+I am a versatile Full Stack Developer with expertise in modern web technologies and programming fundamentals.  
+I build scalable applications, manage databases efficiently, and lead IT operations with structured planning.
+
+I combine development skills, creative tools, and leadership experience to deliver complete digital solutions.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technical Skills
 
-### 💻 Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css" />
-</p>
+### 🌐 Web Development
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- HTML5
+- CSS3
+- JavaScript
 
 ### 🗄 Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+- SQL
+- MySQL
 
 ### 👨‍💻 Programming
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java" />
-</p>
+- C
+- Java
 
-### 🌐 CMS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress" />
-</p>
+### 🌍 CMS
+- WordPress
 
-### 🎨 Creative Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
-</p>
+### 🎨 Creative & Productivity
+- Adobe Photoshop
+- Adobe Illustrator
+- Video Editing
+- Microsoft Office Suite
 
 ---
 
-## 📊 GitHub Analytics
+## 🏢 Leadership & IT Management
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jishu3217&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Jishu3217&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishu3217&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- Managed IT sections in multiple programs
+- Coordinated technical teams
+- Led social organizations
+- Handled event-based technical operations
 
 ---
 
-## 🐍 Contribution Activity
+## 🎯 Focus Areas
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jishu3217/Jishu3217/output/github-contribution-grid-snake.svg" />
-</p>
-
-Setup Guide:
-1. Go to Repository → Actions  
-2. Add Snake Workflow from: https://github.com/Platane/snk  
+- Full Stack Web Applications
+- Database-Driven Systems
+- WordPress Solutions
+- IT Infrastructure Coordination
+- Creative Digital Projects
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jishan-ahammod-faisal-467459368/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://www.facebook.com/Jishan.Ahammod.Faisal">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/jishanahammodfaisal/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="https://t.me/jishan_ahammod_faisal">
-    <img src="https://img.icons8.com/color/48/telegram-app.png" height="40"/>
-  </a>
-</p>
+LinkedIn:  
+https://www.linkedin.com/in/jishan-ahammod-faisal-467459368/
+
+Facebook:  
+https://www.facebook.com/Jishan.Ahammod.Faisal
+
+Instagram:  
+https://www.instagram.com/jishanahammodfaisal/
+
+Telegram:  
+https://t.me/jishan_ahammod_faisal
 
 ---
 
-## 💡 Personal Statement
+## 💡 Philosophy
 
-> Code with Logic.  
-> Design with Creativity.  
-> Lead with Vision.
+Code with clarity.  
+Design with creativity.  
+Lead with responsibility.
