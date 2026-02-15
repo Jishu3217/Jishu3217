@@ -1,35 +1,42 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Jishan Ahammod Faisal</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | WordPress Expert | Creative IT Manager</h3>
+<h1 align="center">Jishan Ahammod Faisal</h1>
+<h3 align="center">Full Stack Developer | MERN | SQL | Java | C | WordPress | Creative IT Manager</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;WordPress+Developer;Creative+Designer;IT+Event+Manager;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;SQL+%7C+Java+%7C+C+Programmer;WordPress+Developer;Creative+Designer;IT+Event+Manager;Building+Scalable+Digital+Solutions" />
 </p>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-
 ## 👨‍💻 About Me
 
-- 🔥 Full Stack Developer (MERN Stack)
-- 🌐 Professional WordPress Developer
-- 🎨 Adobe Photoshop & Illustrator Expert
-- 🎬 Video Editing Skilled
-- 🖥️ Advanced MS Office User
-- 🏢 Managed IT Sections in Various Programs
-- 🤝 Experienced in Social Organization Leadership
+- Full Stack Developer (MongoDB, Express, React, Node)
+- Strong in SQL & Database Management
+- Programming: C & Java
+- WordPress Development
+- Adobe Photoshop & Illustrator
+- Video Editing & MS Office Expert
+- IT Section Manager for Multiple Programs
+- Social Organization Leadership Experience
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## 🚀 Tech Stack
 
 ### 💻 Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css" />
+</p>
+
+### 🗄 Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 👨‍💻 Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java" />
 </p>
 
 ### 🌐 CMS
@@ -37,30 +44,37 @@
   <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
-### 🎨 Creative & Tools
+### 🎨 Creative Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 </p>
 
 ---
 
-<!-- ===================== STATS ===================== -->
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jishu3217&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jishu3217&theme=tokyonight&hide_border=true" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jishu3217&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Jishu3217&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishu3217&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishu3217&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+## 🐍 Contribution Activity
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jishu3217/Jishu3217/output/github-contribution-grid-snake.svg" />
+</p>
+
+Setup Guide:
+1. Go to Repository → Actions  
+2. Add Snake Workflow from: https://github.com/Platane/snk  
+
+---
 
 ## 🌍 Connect With Me
 
@@ -81,9 +95,8 @@
 
 ---
 
-<!-- ===================== QUOTE ===================== -->
+## 💡 Personal Statement
 
-## 💡 Personal Motto
-
-> Code. Create. Manage. Lead.  
-> Turning Ideas into Digital Reality.
+> Code with Logic.  
+> Design with Creativity.  
+> Lead with Vision.
