@@ -58,22 +58,6 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Jishu3217&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishu3217&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jishu3217/Jishu3217/output/github-contribution-grid-snake.svg" />
-</p>
-
-Setup Guide:
-1. Go to Repository → Actions  
-2. Add Snake Workflow from: https://github.com/Platane/snk  
-
 ---
 
 ## 🌍 Connect With Me
