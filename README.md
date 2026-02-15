@@ -61,18 +61,6 @@
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
-## 🐍 Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jishu3217/Jishu3217/output/github-contribution-grid-snake.svg" />
-</p>
-
-⚠️ Snake animation চালু করতে GitHub Actions দিয়ে setup করতে হবে:
-👉 https://github.com/Platane/snk
-
----
-
-<!-- ===================== CONNECT ===================== -->
 
 ## 🌍 Connect With Me
 
